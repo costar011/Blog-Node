@@ -1,0 +1,50 @@
+form .title_area span {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+form .title_area input {
+  display: flex;
+  flex-direction: row;
+  width: 650px;
+  height: 40px;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #0b50af;
+  outline: none;
+  border-radius: 10px;
+}
+
+form .desc_area span {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+form .desc_area input {
+  display: flex;
+  flex-direction: row;
+  width: 650px;
+  height: 40px;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #0b50af;
+  outline: none;
+  border-radius: 10px;
+}
+
+form .btn-area input {
+  margin: 20px;
+  width: 100px;
+  outline: none;
+  background-color: #ffffff;
+  color: #186bbf;
+  font-weight: 600;
+  font-size: 15px;
+  border-radius: 5px;
+}

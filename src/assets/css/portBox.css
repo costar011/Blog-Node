@@ -1,6 +1,19 @@
 .portBox {
-  width: 200px;
+  width: 300px;
   height: 180px;
-  background-color: chocolate;
+  background-color: #74b9ff;
   margin: 5px;
+}
+
+input.write#writeBtn-js {
+  margin: 20px;
+  width: 100px;
+  outline: none;
+  background-color: #ffffff;
+  color: #186bbf;
+  font-weight: 600;
+  font-size: 15px;
+  cursor: pointer;
+  border-radius: 5px;
+  box-shadow: 1px #0b0b0b;
 }

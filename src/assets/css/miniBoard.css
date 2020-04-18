@@ -1,17 +1,17 @@
 .mini {
-  margin-top: 40px;
-  margin-left: 10px;
+  margin-top: 20px;
+  margin-left: 5px;
 }
 
 .mini .mini__thead .thead__tr {
-  font-size: 17px;
+  font-size: 20px;
   border-bottom: 1px solid #0b0b0b;
   margin-bottom: 5px;
 }
 
 .mini .mini__thead .thead__tr .tr__th {
-  padding: 5px 18px;
-  margin: 10px 10px;
+  padding: 5px 15px;
+  margin: 5px 5px;
 }
 
 .mini .mini__thead .thead__tr .tr__th:first-child {
@@ -23,9 +23,9 @@
 }
 
 .mini .mini__tbody tr:nth-child(even) {
-  background-color: rgb(111, 194, 236);
+  background-color: rgb(98, 171, 245);
 }
 
 .mini .mini__tbody tr:hover {
-  background-color: rgb(28, 211, 231);
+  background-color: rgb(67, 149, 232);
 }

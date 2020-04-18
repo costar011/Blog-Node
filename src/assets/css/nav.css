@@ -30,24 +30,24 @@
 }
 
 .box .box__nav {
-  background-color: #25ccf7;
+  background-color: #0984e3;
   width: 15%;
   height: 100vh;
   flex-direction: column;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  font-size: 15px;
+  font-size: 20px;
   cursor: pointer;
 }
 
 .nav {
-  color: #273c75;
-  margin: 40px;
+  color: #58acfa;
+  margin: 30px;
   animation: createNav 0.5s forwards;
 }
 
 .box .nav__items {
-  margin-left: 25px;
+  margin-left: 20px;
   font-size: 20px;
   margin: 25px;
   padding: 20px;
@@ -60,5 +60,5 @@
 
 .box .box__nav .nav .nav__items a {
   text-decoration: none;
-  color: #273c75;
+  color: #97e5ef;
 }
